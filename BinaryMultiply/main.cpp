@@ -1,4 +1,4 @@
-#include"funtion.h"
+#include"function.h"
 int main()
 {
 	int c = 0;
